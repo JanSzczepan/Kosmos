@@ -1,5 +1,5 @@
-# BlackJack
+# SpaceShip
 
-## Object-oriented programming BlackJack with vanilla JS
+## Object-oriented programming SpaceShip with vanilla JS
 
-You can check out final result (or play the game ;)) [here](https://janszczepan.github.io/BlackJack/)
+You can check out final result (or play the game ;)) [here](https://janszczepan.github.io/Kosmos/)
